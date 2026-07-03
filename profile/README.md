@@ -20,6 +20,9 @@ Game Engine Plugins:
 - [Godot plugin](https://github.com/vercidium-audio/vaudio-godot-openal)
 - [Unreal Engine plugin](https://github.com/vercidium-audio/vaudio-unreal)
 
+Utils:
+- [.NET Standard 2.1 Wrapper](https://github.com/vercidium-audio/vaudio-native-wrapper) for using the C SDK via a C# wrapper
+
 .NET Integration Demos:
 - [FMOD demo](https://github.com/vercidium-audio/vaudio-fmod)
 - [Wwise demo](https://github.com/vercidium-audio/vaudio-wwise)
