@@ -24,14 +24,10 @@ Utils:
 - [.NET Standard 2.1 Wrapper](https://github.com/vercidium-audio/vaudio-native-wrapper) for using the C SDK via a C# wrapper
 
 .NET Integration Demos:
+- [.NET SDK examples](https://github.com/vercidium-audio/vaudio-dotnet-examples)
 - [FMOD demo](https://github.com/vercidium-audio/vaudio-fmod)
 - [Wwise demo](https://github.com/vercidium-audio/vaudio-wwise)
 - [OpenAL Demo](https://github.com/vercidium-audio/vaudio-openal)
 
 OpenAL Plugins:
 - [Godot OpenAL](https://github.com/vercidium-audio/godot-openal) replaces Godot's sound system with OpenAL Soft, for better spatialisation and reverb
-
-Outdated:
-- [.NET Examples](https://github.com/vercidium-audio/vaudio-examples)
-- [WebAssembly demo](https://github.com/vercidium-audio/vaudio-wasm)
-- [.NET Benchmarks](https://github.com/vercidium-audio/vaudio-benchmarks)
