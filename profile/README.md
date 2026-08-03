@@ -17,7 +17,8 @@ Official Support Repo:
 - [Support](https://github.com/vercidium-audio/support) contains all official bug reports and feature requests
 
 Game Engine Plugins:
-- [Godot plugin](https://github.com/vercidium-audio/vaudio-godot-openal)
+- [C# Godot plugin](https://github.com/vercidium-audio/vaudio-godot-openal)
+- [Standard Godot plugin](https://github.com/vercidium-audio/vaudio-godot-native-release)
 - [Unreal Engine plugin](https://github.com/vercidium-audio/vaudio-unreal)
 
 Utils:
