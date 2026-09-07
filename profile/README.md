@@ -6,12 +6,11 @@
 
 <br />
 
-Welcome to the Vercidium Audio organisation.
+Welcome to the Vercidium Audio GitHub organisation. The SDK is closed source, but the game engine plugins below are open source.
+
+Please create bug reports and feature requests [here](https://github.com/vercidium-audio/support). 
 
 Official website: https://vercidium.com
-
-Official Support Repo:
-- [Support](https://github.com/vercidium-audio/support) contains all official bug reports and feature requests
 
 Game Engine Plugins:
 - [2D C# Godot plugin](https://github.com/vercidium-audio/vaudio-godot-mono-openal-2d/releases)
@@ -20,6 +19,7 @@ Game Engine Plugins:
 - [Unreal Engine plugin](https://github.com/vercidium-audio/vaudio-unreal)
 
 Wrappers for using the C SDK via a .NET Standard 2.1 C# wrapper:
+- [Swapper](https://github.com/vercidium-audio/vaudio-swapper)
 - [3D wrapper](https://github.com/vercidium-audio/vaudio-native-wrapper-3d)
 - [2D wrapper](https://github.com/vercidium-audio/vaudio-native-wrapper-2d)
 - [Common wrapper code](https://github.com/vercidium-audio/vaudio-native-wrapper-common)
@@ -31,4 +31,4 @@ Wrappers for using the C SDK via a .NET Standard 2.1 C# wrapper:
 - [OpenAL Demo](https://github.com/vercidium-audio/vaudio-openal)
 
 OpenAL Plugins:
-- [Godot OpenAL](https://github.com/vercidium-audio/godot-mono-openal) replaces Godot's sound system with OpenAL Soft, for better spatialisation and reverb
+- (deprecated) [Godot OpenAL](https://github.com/vercidium-audio/godot-mono-openal) replaces Godot's sound system with OpenAL Soft, for better spatialisation and reverb
