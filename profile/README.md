@@ -15,14 +15,13 @@ Official website: https://vercidium.com
 Game Engine Plugins:
 - [2D C# Godot plugin](https://github.com/vercidium-audio/vaudio-godot-mono-openal-2d/releases)
 - [3D C# Godot plugin](https://github.com/vercidium-audio/vaudio-godot-mono-openal-3d/releases)
-- [3D Standard Godot plugin](https://github.com/vercidium-audio/vaudio-godot-native-openal-3d-release/releases)
+- [2D C++ GDExtension](https://github.com/vercidium-audio/vaudio-godot-native-openal-2d/releases)
+- [3D C++ GDExtension](https://github.com/vercidium-audio/vaudio-godot-native-openal-3d/releases)
 - [Unreal Engine plugin](https://github.com/vercidium-audio/vaudio-unreal)
 
 Wrappers for using the C SDK via a .NET Standard 2.1 C# wrapper:
-- [Swapper](https://github.com/vercidium-audio/vaudio-swapper)
-- [3D wrapper](https://github.com/vercidium-audio/vaudio-native-wrapper-3d)
-- [2D wrapper](https://github.com/vercidium-audio/vaudio-native-wrapper-2d)
-- [Common wrapper code](https://github.com/vercidium-audio/vaudio-native-wrapper-common)
+- [.NET / native swapper](https://github.com/vercidium-audio/vaudio-swapper)
+- [Native wrappers](https://github.com/vercidium-audio/vaudio-native-wrapper)
 
 .NET Integration Demos:
 - [.NET SDK examples](https://github.com/vercidium-audio/vaudio-dotnet-examples)
